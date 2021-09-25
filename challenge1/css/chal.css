@@ -1,0 +1,20 @@
+.container{
+    background-color: white;
+    border-radius: 25px;
+box-shadow: 1px 1px 6px rgba(7, 7, 7, 0.5);
+text-align: center;
+}
+.vert{
+    margin-top: 3em;
+    margin-bottom: 25px;
+    background-color: green;
+    border-radius: 25px;
+    text-align: center;
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.205);
+}
+.footer{
+    text-align: center;
+    background-color: rgb(32, 37, 32);
+    color: white;
+    padding: 5em;
+}
